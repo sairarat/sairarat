@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-<img src=/Purple Cover Photo.png" alt="Purple Cover Photo" />
+<img src="https://raw.githubusercontent.com/sairarat/sairarat/main/Purple%20Cover%20Photo.png" alt="Purple Cover Photo" />
 </p>
 
 <h1 align="center">
@@ -17,19 +17,12 @@
 
 Hi! My name is Saira Sofia De Mesa, a 2nd year Computer Science Student. I'm currently studying to a path in Cyber Security specifically in Penetration Testing. However I'm also interested in dabbling into Web Development because I believe it will be beneficial for my path. 
 
-
-<h3>Educational Background</h3>
-<div align="center">
-    🔢 I studied in Catanauan Central School in my elementary days<br>
-    🎓 I studied both Junior and Senior High School in Manuel S. Enverga University<br>
-    📖 I'm currently in my 2nd year of College at New Era University
-</div>
-
 <div align="center">
     <a href="mailto:ssdemesa14@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
     </a>
 </div>
+
 
 <h2 align="center"> 🛠️Languages/Tools 🛠️ </h2>
 <br/>
@@ -39,4 +32,17 @@ Hi! My name is Saira Sofia De Mesa, a 2nd year Computer Science Student. I'm cur
 <img src="https://skillicons.dev/icons?i=html,css,mysql" />
   </a>
 </div>
+
+<h3>Educational Background</h3>
+<div align="center">
+    🔢 I studied in Catanauan Central School in my elementary days<br>
+    🎓 I studied both Junior and Senior High School in Manuel S. Enverga University<br>
+    📖 I'm currently in my 2nd year of College at New Era University
+</div>
+</hr>
+
+<h2 align="center">📜 Certifications 📜</h2>
+
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=8f66ce&height=120&section=footer" /> <!--FOOTER-->
 
