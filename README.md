@@ -29,11 +29,12 @@ Hi! My name is Saira Sofia De Mesa, a 2nd year Computer Science Student. I'm cur
     </a>
 </div>
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/sairarat/sairarat/main/cute%20girl%20purple%20gif.gif" alt="Cute Girl Purple GIF" width="900" height="200" />
-</p>
 
-<h2 align="center"> 🛠️Languages/Tools 🛠️ </h2>
+<h2 align="center">
+    <img src="https://raw.githubusercontent.com/sairarat/sairarat/main/pink_hammer-removebg-preview.png" width="30">&nbsp; Language & Tools &nbsp;
+    <img src="https://raw.githubusercontent.com/sairarat/sairarat/main/pink_hammer-removebg-preview.png" width="30">
+</h2>
+
 <br/>
 <div align="center">
   <a href="https://skillicons.dev">
@@ -42,6 +43,7 @@ Hi! My name is Saira Sofia De Mesa, a 2nd year Computer Science Student. I'm cur
   </a>
 </div>
 
+
 ### Education
 | Grade Level | School Name                            | Date              |
 |-------------|----------------------------------------|-------------------|
@@ -49,11 +51,35 @@ Hi! My name is Saira Sofia De Mesa, a 2nd year Computer Science Student. I'm cur
 | 🎓**Senior Highschool** | Manuel S. Enverga University Foundation Catanauan **(ICT)** | 2021 - 2023 |
 
 
-<h2 align="center">📜 Certifications 📜</h2>
+<h2 align="center">
+    <img src="https://raw.githubusercontent.com/sairarat/sairarat/main/scroll_pixel-removebg-preview.png" width="30">&nbsp; Certification &nbsp;
+    <img src="https://raw.githubusercontent.com/sairarat/sairarat/main/scroll_pixel-removebg-preview.png" width="30">
+</h2>
+
+</div>
 <div align="center">
     <a href="https://courses.cognitiveclass.ai/certificates/7889add182624c96b0ae9f2f6534c599" target="_blank">
     <img src="https://img.shields.io/badge/SQL%20and%20Relational%20Databases%20101-CognitiveClass.ai-blue?style=for-the-badge" alt="SQL and Relational Databases 101 Certificate"/>
 </div>
+
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<p align="center">
+<table align="center">
+   <tr border="none">
+      <td width="50%" align="center">
+         <img align="center" src="https://github-readme-stats-salesp07.vercel.app/api?username=sairarat&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+         <br><br>
+         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Raiven streak" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=sairarat&count_private=true&theme=react&border_radius=10" /> 
+      </td>
+      <td width="50%" align="center">
+         <img align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=sairarat&count_private=true&theme=react&layout=compact&border_radius=40&hide=HTML&langs_count=8&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+      </td>
+   </tr>
+</table>
+</p>
+<br/><br/>
+
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=8f66ce&height=120&section=footer" /> <!--FOOTER-->
 
