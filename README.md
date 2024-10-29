@@ -29,7 +29,9 @@ Hi! My name is Saira Sofia De Mesa, a 2nd year Computer Science Student. I'm cur
     </a>
 </div>
 
-
+<p align="center">
+<img src="https://raw.githubusercontent.com/sairarat/sairarat/main/cute%20girl%20purple%20gif.gif" alt="Cute Girl Purple GIF" width="900" height="200" />
+</p>
 
 <h2 align="center"> 🛠️Languages/Tools 🛠️ </h2>
 <br/>
