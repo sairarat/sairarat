@@ -1,6 +1,8 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=8f66ce&height=120&section=header" />
 <p align="center">
-    <img align="center" src="https://visitor-badge.laobi.icu/badge?page_id=sairarat.sairarat" />
+<p align="center">
+    <img src="https://komarev.com/ghpvc/?username=sairarat&label=Profile%20views&abbreviated=true&label=Visitor+Count&color=8f66ce&style=plastic" alt="sairarat" />
+</p>
 </p>
 
 <p align="center">
@@ -62,7 +64,10 @@ Hi! My name is Saira Sofia De Mesa, a 2nd year Computer Science Student. I'm cur
     <img src="https://img.shields.io/badge/SQL%20and%20Relational%20Databases%20101-CognitiveClass.ai-blue?style=for-the-badge" alt="SQL and Relational Databases 101 Certificate"/>
 </div>
 
-<h2 align="center">⚡ Stats ⚡</h2>
+<h2 align="center">
+    <img src="https://raw.githubusercontent.com/sairarat/sairarat/main/blue%20flame%20pixel.gif" width="30">&nbsp; Stats &nbsp;
+    <img src="https://raw.githubusercontent.com/sairarat/sairarat/main/blue%20flame%20pixel.gif" width="30">
+</h2>
 <br>
 <p align="center">
 <table align="center">
