@@ -24,6 +24,7 @@ Hi! My name is Saira Sofia De Mesa, a 2nd year Computer Science Student. I'm cur
 </div>
 
 
+
 <h2 align="center"> 🛠️Languages/Tools 🛠️ </h2>
 <br/>
 <div align="center">
@@ -33,16 +34,18 @@ Hi! My name is Saira Sofia De Mesa, a 2nd year Computer Science Student. I'm cur
   </a>
 </div>
 
-<h3>Educational Background</h3>
-<div align="center">
-    🔢 I studied in Catanauan Central School in my elementary days<br>
-    🎓 I studied both Junior and Senior High School in Manuel S. Enverga University<br>
-    📖 I'm currently in my 2nd year of College at New Era University
-</div>
-</hr>
+### Education
+| Grade Level | School Name                            | Date              |
+|-------------|----------------------------------------|-------------------|
+| 📖**College** | New Era University **(BSCS)**      | 2023 - Present    |
+| 🎓**Senior Highschool** | Manuel S. Enverga University Foundation Catanauan **(ICT)** | 2021 - 2023 |
+
 
 <h2 align="center">📜 Certifications 📜</h2>
-
+<div align="center">
+    <a href="https://courses.cognitiveclass.ai/certificates/7889add182624c96b0ae9f2f6534c599" target="_blank">
+    <img src="https://img.shields.io/badge/SQL%20and%20Relational%20Databases%20101-CognitiveClass.ai-blue?style=for-the-badge" alt="SQL and Relational Databases 101 Certificate"/>
+</div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=8f66ce&height=120&section=footer" /> <!--FOOTER-->
 
