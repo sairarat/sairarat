@@ -14,6 +14,12 @@
 <h3 align="center">Aspiring Cyber Security Specialist/Web Developer/Editor</h3>
 <br/>
 
+<div align="center">
+    <h2>
+        <img src="https://raw.githubusercontent.com/sairarat/sairarat/main/purple%20bat.gif?raw=true" width="40"> &nbsp;About Me
+    </h2>
+</div>
+
 
 Hi! My name is Saira Sofia De Mesa, a 2nd year Computer Science Student. I'm currently studying to a path in Cyber Security specifically in Penetration Testing. However I'm also interested in dabbling into Web Development because I believe it will be beneficial for my path. 
 
