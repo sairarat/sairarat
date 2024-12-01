@@ -63,6 +63,12 @@ Hi! My name is Saira Sofia De Mesa, a 2nd year Computer Science Student. I'm cur
     <a href="https://courses.cognitiveclass.ai/certificates/7889add182624c96b0ae9f2f6534c599" target="_blank">
     <img src="https://img.shields.io/badge/SQL%20and%20Relational%20Databases%20101-CognitiveClass.ai-blue?style=for-the-badge" alt="SQL and Relational Databases 101 Certificate"/>
 </div>
+<div align="center">
+    <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=1EC29D926271034FD81065323EF968B7D2A827537396EFF45683EC5D7F1385C7" target="_blank">
+        <img src="https://img.shields.io/badge/Oracle%20Certification%20Badge-Oracle-blue?style=for-the-badge" alt="Oracle Certification Badge"/>
+    </a>
+</div>
+
 
 <h2 align="center">
     <img src="https://raw.githubusercontent.com/sairarat/sairarat/main/blue%20flame%20pixel.gif" width="30">&nbsp; Stats &nbsp;
