@@ -47,10 +47,11 @@ Hi! My name is Saira Sofia De Mesa, a 2nd year Computer Science Student. I'm cur
 
 
 ### Education
-| Grade Level | School Name                            | Date              |
-|-------------|----------------------------------------|-------------------|
-| 📖**College** | New Era University **(BSCS)**      | 2023 - Present    |
-| 🎓**Senior Highschool** | Manuel S. Enverga University Foundation Catanauan **(ICT)** | 2021 - 2023 |
+| School Name                            | Date              |
+|----------------------------------------|-------------------|
+| 📖**New Era University** *(BSCS)*      | 2023 - Present    |
+| 🎓**Manuel S. Enverga University Foundation Catanauan** *(ICT)* | 2021 - 2023 |
+
 
 
 <h2 align="center">
@@ -61,13 +62,22 @@ Hi! My name is Saira Sofia De Mesa, a 2nd year Computer Science Student. I'm cur
 </div>
 <div align="center">
     <a href="https://courses.cognitiveclass.ai/certificates/7889add182624c96b0ae9f2f6534c599" target="_blank">
-    <img src="https://img.shields.io/badge/SQL%20and%20Relational%20Databases%20101-CognitiveClass.ai-blue?style=for-the-badge" alt="SQL and Relational Databases 101 Certificate"/>
+    <img src="https://img.shields.io/badge/SQL%20and%20Relational%20Databases%20101-CognitiveClass.ai-blue?style=for-the-badge" alt="SQL and Relational Databases 101 Certificate"/>  
 </div>
 <div align="center">
+   <div align="center">
     <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=1EC29D926271034FD81065323EF968B7D2A827537396EFF45683EC5D7F1385C7" target="_blank">
-        <img src="https://img.shields.io/badge/Oracle%20Certification%20Badge-Oracle-blue?style=for-the-badge" alt="Oracle Certification Badge"/>
+        <img src="https://img.shields.io/badge/Oracle%20Cloud%20Infrastructure%20Foundation%20Associate-Oracle-blue?style=for-the-badge" alt="Oracle Cloud Infrastructure Certified Foundation Associate"/>
     </a>
 </div>
+
+<div align="center">
+    <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=1EC29D926271034FD81065323EF968B72FD93DC20D5BBB7304846AD264E6DB12" target="_blank">
+        <img src="https://img.shields.io/badge/Oracle%20Cloud%20Infrastructure%20Data%20Certified%20Foundation%20Associate-Oracle-blue?style=for-the-badge" alt="Oracle Cloud Infrastructure Data Certified Foundation Associate"/>
+    </a>
+</div>
+
+
 
 
 <h2 align="center">
