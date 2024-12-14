@@ -77,6 +77,14 @@ Hi! My name is Saira Sofia De Mesa, a 2nd year Computer Science Student. I'm cur
     </a>
 </div>
 
+<div align="center">
+    <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=F74EF612583EA0EEE708F2960DCFCB3A1C9B5DF7D304D6030CBF7954C4A491FD" target="_blank">
+        <img src="https://img.shields.io/badge/Oracle%20Cloud%20Infrastructure%20AI%20Certified%20Foundation%20Associate-Oracle-blue?style=for-the-badge" alt="Oracle Cloud Infrastructure AI Certified Foundation Associate"/>
+    </a>
+</div>
+
+
+
 
 
 
