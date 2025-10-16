@@ -46,47 +46,58 @@ Hi! My name is Saira Sofia De Mesa, a 2nd year Computer Science Student. I'm cur
 </div>
 
 
+<div align="center">
+
 ### Education
+
 | School Name                            | Date              |
 |----------------------------------------|-------------------|
 | 📖**New Era University** *(BSCS)*      | 2023 - Present    |
 | 🎓**Manuel S. Enverga University Foundation Catanauan** *(ICT)* | 2021 - 2023 |
 
+</div>
 
 
 <h2 align="center">
-    <img src="https://raw.githubusercontent.com/sairarat/sairarat/main/scroll_pixel-removebg-preview.png" width="30">&nbsp; Certification &nbsp;
+    <img src="https://raw.githubusercontent.com/sairarat/sairarat/main/scroll_pixel-removebg-preview.png" width="30">&nbsp; Certifications &nbsp;
     <img src="https://raw.githubusercontent.com/sairarat/sairarat/main/scroll_pixel-removebg-preview.png" width="30">
 </h2>
 
 </div>
 <div align="center">
     <a href="https://courses.cognitiveclass.ai/certificates/7889add182624c96b0ae9f2f6534c599" target="_blank">
-    <img src="https://img.shields.io/badge/SQL%20and%20Relational%20Databases%20101-CognitiveClass.ai-blue?style=for-the-badge" alt="SQL and Relational Databases 101 Certificate"/>  
+    <img src="https://img.shields.io/badge/SQL%20and%20Relational%20Databases%20101-CognitiveClass.ai-purple?style=for-the-badge" alt="SQL and Relational Databases 101 Certificate"/>  
 </div>
 <div align="center">
    <div align="center">
     <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=1EC29D926271034FD81065323EF968B7D2A827537396EFF45683EC5D7F1385C7" target="_blank">
-        <img src="https://img.shields.io/badge/Oracle%20Cloud%20Infrastructure%20Foundation%20Associate-Oracle-blue?style=for-the-badge" alt="Oracle Cloud Infrastructure Certified Foundation Associate"/>
+        <img src="https://img.shields.io/badge/Oracle%20Cloud%20Infrastructure%20Foundation%20Associate-Oracle-purple?style=for-the-badge" alt="Oracle Cloud Infrastructure Certified Foundation Associate"/>
     </a>
 </div>
 
 <div align="center">
     <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=1EC29D926271034FD81065323EF968B72FD93DC20D5BBB7304846AD264E6DB12" target="_blank">
-        <img src="https://img.shields.io/badge/Oracle%20Cloud%20Infrastructure%20Data%20Certified%20Foundation%20Associate-Oracle-blue?style=for-the-badge" alt="Oracle Cloud Infrastructure Data Certified Foundation Associate"/>
+        <img src="https://img.shields.io/badge/Oracle%20Cloud%20Infrastructure%20Data%20Certified%20Foundation%20Associate-Oracle-purple?style=for-the-badge" alt="Oracle Cloud Infrastructure Data Certified Foundation Associate"/>
     </a>
 </div>
 
 <div align="center">
     <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=F74EF612583EA0EEE708F2960DCFCB3A1C9B5DF7D304D6030CBF7954C4A491FD" target="_blank">
-        <img src="https://img.shields.io/badge/Oracle%20Cloud%20Infrastructure%20AI%20Certified%20Foundation%20Associate-Oracle-blue?style=for-the-badge" alt="Oracle Cloud Infrastructure AI Certified Foundation Associate"/>
+        <img src="https://img.shields.io/badge/Oracle%20Cloud%20Infrastructure%20AI%20Certified%20Foundation%20Associate-Oracle-purple?style=for-the-badge" alt="Oracle Cloud Infrastructure AI Certified Foundation Associate"/>
     </a>
 </div>
 
+<div align="center">
+    <a href="https://www.credly.com/badges/1efe2d70-b752-49f3-9adc-c1728532312b/public_url" target="_blank">
+        <img src="https://img.shields.io/badge/Introduction%20to%20Cybersecurity-Cisco-purple?style=for-the-badge" alt="Introduction to Cybersecurity"/>
+    </a>
+</div>
 
-
-
-
+<div align="center">
+    <a href="https://training.fortinet.com/mod/customcert/view.php?id=795201&downloadown=1 target="_blank">
+        <img src="https://img.shields.io/badge/Introduction%20to%20Threat%20Landscape-Fortinet-purple?style=for-the-badge" alt="Introduction to Threat Landscape"/>
+    </a>
+</div>
 
 <h2 align="center">
     <img src="https://raw.githubusercontent.com/sairarat/sairarat/main/blue%20flame%20pixel.gif" width="30">&nbsp; Stats &nbsp;
